@@ -8,8 +8,8 @@ module.exports = {
 		"https://uxium.io",
 		"https://aurora-5r.fr/",
         "https://xposur.aurora-5r.fr/",
-        "https://www.scierie-borie.fr/",
-        "https://cedric.uxim.io/",
-        "https://bikeslot.uxim.io/"
+        "https://scierie-borie.fr/",
+        "https://cedric.uxium.io/",
+        "https://bikeslot.uxuim.io/"
 	]
 };
