@@ -6,10 +6,10 @@ module.exports = {
 	},
 	urls: [
 		"https://uxium.io",
-		"https://aurora-5r.fr/",
-        "https://xposur.aurora-5r.fr/",
-        "https://scierie-borie.fr/",
-        "https://cedric.uxium.io/",
-        "https://bikeslot.uxuim.io/"
+		"https://aurora-5r.fr",
+        "https://xposur.aurora-5r.fr",
+        "https://scierie-borie.fr",
+        "https://cedric.uxium.io",
+        "https://bikeslot.uxuim.io"
 	]
 };
