@@ -1,5 +1,5 @@
 module.exports = {
-	name: "uxium", 
+	name: "in-progress", 
 	description: "The sites in progress for short interval tests",
 	options: {
 		frequency: 1, // (in minutes)
