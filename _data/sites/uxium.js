@@ -2,7 +2,7 @@ module.exports = {
 	name: "uxium", 
 	description: "The uxium sites",
 	options: {
-		frequency: 1, // (in minutes)
+		frequency: 60*23, // (in minutes)
 	},
 	urls: [
 	"https://uxium.io/",
