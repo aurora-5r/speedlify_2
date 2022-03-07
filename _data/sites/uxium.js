@@ -10,6 +10,7 @@ module.exports = {
         "https://xposur.aurora-5r.fr/",
         "https://scierie-borie.fr/",
         "https://cedric.uxium.io/",
-        "https://bikeslot.uxium.io/"
+        "https://bikeslot.uxium.io/",
+	"https://ux-ium.web.app/"
 	]
 };
